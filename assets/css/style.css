@@ -10,7 +10,9 @@
     flex: 1 0 auto;
   } */
 
-  .portfolio-pic{
-      with: 400px;
+ 
 
+  body {
+    background-image: url("../images/1fa94b55757637f71c0f932d1f55101f.jpg");
   }
+
