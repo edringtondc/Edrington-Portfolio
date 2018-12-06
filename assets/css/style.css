@@ -14,8 +14,33 @@
 
   body {
     background-image: url("../images/1fa94b55757637f71c0f932d1f55101f.jpg");
+
   }
 
- .portfolio-link {
-   display:block;
- }
+
+  .parallax { 
+      /* The image used */
+      /* background-image: url("../images/1fa94b55757637f71c0f932d1f55101f.jpg"); */
+      background-color: #e8eaf6;
+
+      /* Set a specific height */
+      height: 500px; 
+  
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
+
+.app-row {
+  height: 500px;
+}
+
+.card {
+  height: 300px;
+}
+  /* .parallax-container {
+    height: "auto";
+  } */
+     
