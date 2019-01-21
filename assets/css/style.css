@@ -56,3 +56,13 @@
   .card-panel{
     height: 100%;
   }
+
+  .card-image, img{
+    height: 200px;
+    
+    
+  }
+
+  .opaque {
+    opacity: 0.8;
+  }
